@@ -5,7 +5,7 @@ const Pending = () => {
     <div>
            <div class="max-w-md mx-auto mt-6 bg-white shadow-md rounded-lg p-6">
 <div class="text-center mb-6">
-  <p class="text-3xl font-bold text-gray-800">£1,085.25</p>
+  <p class="text-3xl font-bold text-gray-800">$5,000,000.00</p>
 </div>
 
 <div>
@@ -20,27 +20,23 @@ const Pending = () => {
   </div>
   <div class="flex justify-between items-center mb-4">
     <span class="text-sm text-gray-600">Withdrawn Amount</span>
-    <span class="text-sm font-medium text-gray-800">£1,085.25</span>
+    <span class="text-sm font-medium text-gray-800">$5,000,000.00</span>
   </div>
   <div class="flex justify-between items-center mb-4">
     <span class="text-sm text-gray-600">Refunds</span>
-    <span class="text-sm font-medium text-gray-800">£0.00</span>
+    <span class="text-sm font-medium text-gray-800">$0.00</span>
   </div>
 
   <div class="flex justify-between items-center border-t pt-4">
     <span class="text-sm text-gray-600">End balance</span>
-    <span class="text-sm font-medium text-gray-800">£1,085.25</span>
+    <span class="text-sm font-medium text-gray-800">$19,235,645,700.25</span>
   </div>
 </div>
 
 <div class="mt-6">
   <div class="mb-4">
-    <p class="text-sm text-gray-600">Transfer date and time</p>
-    <p class="text-sm font-medium text-gray-800">Due 28 December 2024, 10:00</p>
-  </div>
-  <div class="mb-4">
     <p class="text-sm text-gray-600">Transactions date</p>
-    <p class="text-sm font-medium text-gray-800">26 December 2024</p>
+    <p class="text-sm font-medium text-gray-800">25 December 2024</p>
   </div>
   <div>
     <p class="text-sm text-gray-600">Payment reference</p>
