@@ -28,7 +28,7 @@ const Pending = () => {
   </div>
 
   <div class="flex justify-between items-center border-t pt-4">
-    <span class="text-sm text-gray-600">End balance</span>
+    <span class="text-sm text-gray-600"> Available balance</span>
     <span class="text-sm font-medium text-gray-800">$19,235,645,700.25</span>
   </div>
 </div>
